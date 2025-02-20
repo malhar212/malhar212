@@ -34,6 +34,7 @@ Actively looking for new opportunities
 <p width="75%" align="center">
     <img alt="Cypress" src="https://img.shields.io/badge/Cypress-white?style=for-the-badge&logo=cypress">
     <img alt="JUnit" src="https://img.shields.io/badge/JUnit-black?style=for-the-badge&logo=junit5">
+    <img alt="Playwright" src="https://img.shields.io/badge/Playwright-white?style=for-the-badge&logo=playwright">
 </p>
 
 <p width="75%" align="center">
